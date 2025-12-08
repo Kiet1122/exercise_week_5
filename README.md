@@ -257,3 +257,8 @@ flutter run
 | Danh sách ghi chú | Xác Nhận Xóa |
 |-------------------|---------------|
 | ![Edit Note](https://res.cloudinary.com/dmnkakpnb/image/upload/v1764779914/ex5-3_ozoba6.png) | ![Delete Confirm](https://res.cloudinary.com/dmnkakpnb/image/upload/v1764779914/ex5-4_jl9unw.png) |
+
+# **🎬 Video Demo**
+
+[**👉 Xem Video Demo tại đây 👈**](https://res.cloudinary.com/dmnkakpnb/video/upload/v1765205917/123_h7soex.mp4)
+
